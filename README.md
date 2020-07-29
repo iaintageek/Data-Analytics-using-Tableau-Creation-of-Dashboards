@@ -7,6 +7,6 @@ Which customer segment has the highest customer value?
 What additional external datasets may be useful to obtain greater insights into customer preferences and propensity to purchase the products?
 
 Outcomes:
-Dashboards based on the insights.
+Dashboards based on the insights
 
 
